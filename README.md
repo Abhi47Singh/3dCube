@@ -1,6 +1,6 @@
-<p align="center">
-  # 3D cube to learn how Perspective Work... 
-</p>
+<h1 align="center">
+  #3D cube to learn how Perspective Work... 
+</h1>
 <br/>
 <h1 align="center">Tech Stack I Used</h1>
 <p align="center">
@@ -10,5 +10,6 @@
 </p>  
 <br/>
 <br/>
+
 [View Your Self](https://abhi47singh.github.io/3dCube/)
 
