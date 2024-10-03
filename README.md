@@ -11,5 +11,9 @@
 <br/>
 <br/>
 
-[View Your Self](https://abhi47singh.github.io/3dCube/)
+<h3 align="center">
+  
+  [View Your Self](https://abhi47singh.github.io/3dCube/)
+  
+</h3>
 
